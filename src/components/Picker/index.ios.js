@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Use npm install @react-native-picker/picker
-import { Picker as RNPickerSelect } from '@react-native-picker/picker';
+import { Picker as RNPickerSelect } from 'react-native';
 import { PickerView } from './styles';
 
 export default function Picker({ onChange, tipo }){
