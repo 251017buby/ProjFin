@@ -1,4 +1,4 @@
 # projFin
-react-native
-Styled Components
-Firebase
+React-Native,
+Styled Components,
+Firebase.
